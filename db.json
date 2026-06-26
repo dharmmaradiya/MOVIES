@@ -1,0 +1,24 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avengers: Endgame",
+      "description": "After the devastating events of Infinity War, the Avengers assemble once more to reverse Thanos' actions.",
+      "rating": 8.4,
+      "release_date": "2019-04-26",
+      "language": "English",
+      "genre": "Action, Adventure, Sci-Fi",
+      "image": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Spider-Man: No Way Home",
+      "description": "Spider-Man seeks help from Doctor Strange after his identity is revealed.",
+      "rating": 8.2,
+      "release_date": "2021-12-17",
+      "language": "English",
+      "genre": "Action, Adventure",
+      "image": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    }
+  ]
+}
