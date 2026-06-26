@@ -1,4 +1,13 @@
-<<<<<<< HEAD
+output images
+<img width="1907" height="431" alt="image" src="https://github.com/user-attachments/assets/fa078e6f-40f3-45a6-82d6-11c11ce5eb5a" />
+serach iamges and detail
+<img width="1920" height="1173" alt="image" src="https://github.com/user-attachments/assets/a49d0c8d-3d57-42fd-9ca9-f0dbf94dfe07" />
+login page image
+<img width="1920" height="1166" alt="image" src="https://github.com/user-attachments/assets/c373879e-7851-4eef-aad0-959b96d4fbac" />
+input link 
+https://drive.google.com/file/d/1Tgnmr-pLwEvy0NqgiMnCYlylL7umI3Jo/view?usp=drive_link
+output link
+https://drive.google.com/file/d/1sMmtDQDEyeGQny1WJyh7WpAX6ENQ9tKE/view?usp=drive_link
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
